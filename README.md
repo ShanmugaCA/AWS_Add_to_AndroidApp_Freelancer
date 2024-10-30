@@ -15,4 +15,4 @@ This repos contain
 
 * SW and Doc requirements
 
-* Access to 
+* Access to the delivered SW, Doc and test routings
